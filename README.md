@@ -1,6 +1,6 @@
 # NAME:KRITHI.V
 # REG NO:212224060128
-# PSK 
+# PSK & QPSK
 # Aim
 Write a simple Python program for the modulation and demodulation of PSK and QPSK.
 # Tools required
