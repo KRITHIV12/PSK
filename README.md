@@ -134,6 +134,7 @@ plt.show()
 <img width="1027" height="892" alt="image" src="https://github.com/user-attachments/assets/58bf6396-526a-479b-a121-1159eb8118eb" />
 
 # QPSK
+<img width="1094" height="823" alt="image" src="https://github.com/user-attachments/assets/9e2be599-d765-472c-83ff-a316a86579dc" />
 
 
 # Results
